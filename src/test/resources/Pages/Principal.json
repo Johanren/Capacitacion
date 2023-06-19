@@ -1,0 +1,15 @@
+{
+  "usuario": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='ctl00_formularios_lgnIngreso_UserName']"
+  },
+  "contrasena": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='ctl00_formularios_lgnIngreso_Password']"
+  },
+  "iniciarsesion": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='ctl00_formularios_lgnIngreso_LoginButton']"
+  }
+
+}
